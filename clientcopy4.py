@@ -155,7 +155,7 @@ def chat(user):
         client.send(f"left,{user}".encode())
         print("vous vous etes deconnectés")
         # client.close()
-# === Fenetre Principale === #
+# ==== Fenetre Principale ==== #
     chat = Tk()
     fen_authentification.destroy()  # Destroying the authentification window
     chat.title('Instant Messaging')
