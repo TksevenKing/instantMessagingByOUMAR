@@ -9,7 +9,7 @@ port = 5555
 client = socket(AF_INET, SOCK_STREAM)
 client.connect((host, port))
 
-# === Pour changer le fond et la police facilement === #
+# ==== Pour changer le fond et la police facilement ==== #
 DARK_GREY = '#121212'
 MEDIUM_GREY = '#1F1B24'
 OCEAN_BLUE = '#464EB8'
