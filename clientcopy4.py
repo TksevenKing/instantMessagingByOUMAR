@@ -65,7 +65,7 @@ def fen_registre1():
         user_data()
         conf_registre()
 
-    # === Fenetre d'inscription === #
+    # ==== Fenetre d'inscription ==== #
     fen_registre = Tk()
     fen_registre.title("Instant Messaging : Inscription")  # Donner un titre
     fen_registre.geometry("400x450")  # Controler le largeur et la longuer
