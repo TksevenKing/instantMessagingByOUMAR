@@ -9,6 +9,8 @@
 ✅ **Historique des messages** : Consultation des conversations précédentes entre deux utilisateurs.  
 ✅ **Liste des utilisateurs connectés** : Affichage des utilisateurs en ligne en temps réel.  
 ✅ **Interface graphique** : Application avec **Tkinter** pour une utilisation plus intuitive. 
+![Screenshot 2023-12-28 172812](https://github.com/user-attachments/assets/adb505a1-4151-45de-9175-659627c775bf)
+![chat+salon](https://github.com/user-attachments/assets/42bd98ee-7959-4685-a859-cc65e7bb9def)
 
 ## 🛠 **Technologies Utilisées**  
 - **Langage** : Python  
@@ -21,5 +23,5 @@
 ```bash
 git clone https://github.com/ton-utilisateur/instantMessaging.git
 cd instantMessaging
-![Screenshot 2023-12-28 172812](https://github.com/user-attachments/assets/adb505a1-4151-45de-9175-659627c775bf)
-![chat+salon](https://github.com/user-attachments/assets/42bd98ee-7959-4685-a859-cc65e7bb9def)
+
+
